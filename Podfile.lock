@@ -1,0 +1,24 @@
+PODS:
+  - GlitchLabel (2.0.0)
+  - lottie-ios (2.5.0)
+  - SwiftGifOrigin (1.6.1)
+  - SwiftyButton (0.8.0)
+  - TOMSMorphingLabel (0.5.1)
+
+DEPENDENCIES:
+  - GlitchLabel (~> 2.0.0)
+  - lottie-ios
+  - SwiftGifOrigin (~> 1.6.1)
+  - SwiftyButton
+  - TOMSMorphingLabel (~> 0.5)
+
+SPEC CHECKSUMS:
+  GlitchLabel: 65773d1df358ef66c8daa40428eb79bd04e7a976
+  lottie-ios: d699fdee68d7b63e721d949388b015fef1aaa4ac
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+  SwiftyButton: 093e3fe2becf3ae31c0f6c1c6987b79a93fb3ecb
+  TOMSMorphingLabel: 3e88a2bf5257f8993ebc51fb3109187a0bfb2c4d
+
+PODFILE CHECKSUM: 9b855c7732c6697630af9098d53bc9d51e60cdf0
+
+COCOAPODS: 1.3.1

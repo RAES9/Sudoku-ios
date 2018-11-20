@@ -7,14 +7,34 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2116AECCE956CB48503D6ECB /* Pods_SuDoKus.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C6F4C7A0454C0F9149296AC4 /* Pods_SuDoKus.framework */; };
+		901FF915205B30CB008ED84C /* face.png in Resources */ = {isa = PBXBuildFile; fileRef = 901FF914205B30CA008ED84C /* face.png */; };
+		901FF917205B3573008ED84C /* like.png in Resources */ = {isa = PBXBuildFile; fileRef = 901FF916205B3573008ED84C /* like.png */; };
 		908696A12056D0ED00C453B0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 908696A02056D0ED00C453B0 /* AppDelegate.swift */; };
 		908696A32056D0ED00C453B0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 908696A22056D0ED00C453B0 /* ViewController.swift */; };
 		908696A62056D0ED00C453B0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 908696A42056D0ED00C453B0 /* Main.storyboard */; };
 		908696A82056D0ED00C453B0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 908696A72056D0ED00C453B0 /* Assets.xcassets */; };
 		908696AB2056D0ED00C453B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 908696A92056D0ED00C453B0 /* LaunchScreen.storyboard */; };
+		908696B42056D99900C453B0 /* ComicsCarToon.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 908696B32056D99900C453B0 /* ComicsCarToon.ttf */; };
+		908696B82056E79F00C453B0 /* servishero_loading.json in Resources */ = {isa = PBXBuildFile; fileRef = 908696B72056E79F00C453B0 /* servishero_loading.json */; };
+		908696BB2056F21200C453B0 /* numeros.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 908696BA2056F21200C453B0 /* numeros.jpg */; };
+		908696BD2056FB8400C453B0 /* hola.gif in Resources */ = {isa = PBXBuildFile; fileRef = 908696BC2056FB8400C453B0 /* hola.gif */; };
+		908696BF2056FC1100C453B0 /* gifi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 908696BE2056FC1100C453B0 /* gifi.swift */; };
+		908696C12057237900C453B0 /* DificultadController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 908696C02057237900C453B0 /* DificultadController.swift */; };
+		90C698D1205820C2008E6F03 /* wood.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C698D0205820C2008E6F03 /* wood.jpg */; };
+		90C698D3205825B6008E6F03 /* jazz.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 90C698D2205825B6008E6F03 /* jazz.mp3 */; };
+		90C698D520582AC7008E6F03 /* woodin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C698D420582AC7008E6F03 /* woodin.jpg */; };
+		90C698D720582B70008E6F03 /* wow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C698D620582B70008E6F03 /* wow.jpg */; };
+		90C698D920582BED008E6F03 /* wowin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C698D820582BED008E6F03 /* wowin.jpg */; };
+		90C698DB20582C33008E6F03 /* of.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 90C698DA20582C33008E6F03 /* of.jpg */; };
+		90C698DD20583F33008E6F03 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90C698DC20583F33008E6F03 /* GameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1B20E9E5AE05E1491F047E10 /* Pods-SuDoKus.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuDoKus.debug.xcconfig"; path = "Pods/Target Support Files/Pods-SuDoKus/Pods-SuDoKus.debug.xcconfig"; sourceTree = "<group>"; };
+		2992217618E376FDD0867E63 /* Pods-SuDoKus.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SuDoKus.release.xcconfig"; path = "Pods/Target Support Files/Pods-SuDoKus/Pods-SuDoKus.release.xcconfig"; sourceTree = "<group>"; };
+		901FF914205B30CA008ED84C /* face.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = face.png; sourceTree = "<group>"; };
+		901FF916205B3573008ED84C /* like.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = like.png; sourceTree = "<group>"; };
 		9086969D2056D0ED00C453B0 /* SuDoKus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuDoKus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		908696A02056D0ED00C453B0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		908696A22056D0ED00C453B0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +42,20 @@
 		908696A72056D0ED00C453B0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		908696AA2056D0ED00C453B0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		908696AC2056D0ED00C453B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		908696B32056D99900C453B0 /* ComicsCarToon.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = ComicsCarToon.ttf; sourceTree = "<group>"; };
+		908696B72056E79F00C453B0 /* servishero_loading.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = servishero_loading.json; sourceTree = "<group>"; };
+		908696BA2056F21200C453B0 /* numeros.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = numeros.jpg; sourceTree = "<group>"; };
+		908696BC2056FB8400C453B0 /* hola.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = hola.gif; sourceTree = "<group>"; };
+		908696BE2056FC1100C453B0 /* gifi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gifi.swift; sourceTree = "<group>"; };
+		908696C02057237900C453B0 /* DificultadController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DificultadController.swift; sourceTree = "<group>"; };
+		90C698D0205820C2008E6F03 /* wood.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wood.jpg; sourceTree = "<group>"; };
+		90C698D2205825B6008E6F03 /* jazz.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = jazz.mp3; sourceTree = "<group>"; };
+		90C698D420582AC7008E6F03 /* woodin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = woodin.jpg; sourceTree = "<group>"; };
+		90C698D620582B70008E6F03 /* wow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wow.jpg; sourceTree = "<group>"; };
+		90C698D820582BED008E6F03 /* wowin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = wowin.jpg; sourceTree = "<group>"; };
+		90C698DA20582C33008E6F03 /* of.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = of.jpg; sourceTree = "<group>"; };
+		90C698DC20583F33008E6F03 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		C6F4C7A0454C0F9149296AC4 /* Pods_SuDoKus.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SuDoKus.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +63,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2116AECCE956CB48503D6ECB /* Pods_SuDoKus.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		565BAD09D9C098F34B884DA5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C6F4C7A0454C0F9149296AC4 /* Pods_SuDoKus.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8A92F0754CA5948B3F3CCB7A /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1B20E9E5AE05E1491F047E10 /* Pods-SuDoKus.debug.xcconfig */,
+				2992217618E376FDD0867E63 /* Pods-SuDoKus.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		908696942056D0ED00C453B0 = {
 			isa = PBXGroup;
 			children = (
 				9086969F2056D0ED00C453B0 /* SuDoKus */,
 				9086969E2056D0ED00C453B0 /* Products */,
+				8A92F0754CA5948B3F3CCB7A /* Pods */,
+				565BAD09D9C098F34B884DA5 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,14 +108,45 @@
 		9086969F2056D0ED00C453B0 /* SuDoKus */ = {
 			isa = PBXGroup;
 			children = (
+				908696B92056F20200C453B0 /* Media */,
+				908696B72056E79F00C453B0 /* servishero_loading.json */,
+				908696B22056D97900C453B0 /* Fonts */,
 				908696A02056D0ED00C453B0 /* AppDelegate.swift */,
 				908696A22056D0ED00C453B0 /* ViewController.swift */,
 				908696A42056D0ED00C453B0 /* Main.storyboard */,
 				908696A72056D0ED00C453B0 /* Assets.xcassets */,
 				908696A92056D0ED00C453B0 /* LaunchScreen.storyboard */,
 				908696AC2056D0ED00C453B0 /* Info.plist */,
+				908696BE2056FC1100C453B0 /* gifi.swift */,
+				908696C02057237900C453B0 /* DificultadController.swift */,
+				90C698DC20583F33008E6F03 /* GameViewController.swift */,
 			);
 			path = SuDoKus;
+			sourceTree = "<group>";
+		};
+		908696B22056D97900C453B0 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				908696B32056D99900C453B0 /* ComicsCarToon.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		908696B92056F20200C453B0 /* Media */ = {
+			isa = PBXGroup;
+			children = (
+				901FF916205B3573008ED84C /* like.png */,
+				901FF914205B30CA008ED84C /* face.png */,
+				90C698D420582AC7008E6F03 /* woodin.jpg */,
+				908696BC2056FB8400C453B0 /* hola.gif */,
+				90C698D820582BED008E6F03 /* wowin.jpg */,
+				90C698D620582B70008E6F03 /* wow.jpg */,
+				90C698DA20582C33008E6F03 /* of.jpg */,
+				90C698D0205820C2008E6F03 /* wood.jpg */,
+				90C698D2205825B6008E6F03 /* jazz.mp3 */,
+				908696BA2056F21200C453B0 /* numeros.jpg */,
+			);
+			path = Media;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +156,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 908696AF2056D0ED00C453B0 /* Build configuration list for PBXNativeTarget "SuDoKus" */;
 			buildPhases = (
+				6715C10BA8E4070E265DDD7B /* [CP] Check Pods Manifest.lock */,
 				908696992056D0ED00C453B0 /* Sources */,
 				9086969A2056D0ED00C453B0 /* Frameworks */,
 				9086969B2056D0ED00C453B0 /* Resources */,
+				EA01D34317F567706AC3F38E /* [CP] Embed Pods Frameworks */,
+				E511665A93DA3333E88DD8A5 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -123,21 +211,98 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90C698DB20582C33008E6F03 /* of.jpg in Resources */,
+				90C698D720582B70008E6F03 /* wow.jpg in Resources */,
+				90C698D3205825B6008E6F03 /* jazz.mp3 in Resources */,
+				90C698D1205820C2008E6F03 /* wood.jpg in Resources */,
+				908696B82056E79F00C453B0 /* servishero_loading.json in Resources */,
+				90C698D920582BED008E6F03 /* wowin.jpg in Resources */,
+				901FF915205B30CB008ED84C /* face.png in Resources */,
+				908696BB2056F21200C453B0 /* numeros.jpg in Resources */,
 				908696AB2056D0ED00C453B0 /* LaunchScreen.storyboard in Resources */,
+				908696B42056D99900C453B0 /* ComicsCarToon.ttf in Resources */,
 				908696A82056D0ED00C453B0 /* Assets.xcassets in Resources */,
+				901FF917205B3573008ED84C /* like.png in Resources */,
 				908696A62056D0ED00C453B0 /* Main.storyboard in Resources */,
+				908696BD2056FB8400C453B0 /* hola.gif in Resources */,
+				90C698D520582AC7008E6F03 /* woodin.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		6715C10BA8E4070E265DDD7B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-SuDoKus-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E511665A93DA3333E88DD8A5 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SuDoKus/Pods-SuDoKus-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EA01D34317F567706AC3F38E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-SuDoKus/Pods-SuDoKus-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/GlitchLabel/GlitchLabel.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftGifOrigin/SwiftGifOrigin.framework",
+				"${BUILT_PRODUCTS_DIR}/SwiftyButton/SwiftyButton.framework",
+				"${BUILT_PRODUCTS_DIR}/TOMSMorphingLabel/TOMSMorphingLabel.framework",
+				"${BUILT_PRODUCTS_DIR}/lottie-ios/Lottie.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GlitchLabel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftGifOrigin.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SwiftyButton.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/TOMSMorphingLabel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Lottie.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-SuDoKus/Pods-SuDoKus-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		908696992056D0ED00C453B0 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90C698DD20583F33008E6F03 /* GameViewController.swift in Sources */,
 				908696A32056D0ED00C453B0 /* ViewController.swift in Sources */,
 				908696A12056D0ED00C453B0 /* AppDelegate.swift in Sources */,
+				908696C12057237900C453B0 /* DificultadController.swift in Sources */,
+				908696BF2056FC1100C453B0 /* gifi.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -272,6 +437,7 @@
 		};
 		908696B02056D0ED00C453B0 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1B20E9E5AE05E1491F047E10 /* Pods-SuDoKus.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -287,6 +453,7 @@
 		};
 		908696B12056D0ED00C453B0 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 2992217618E376FDD0867E63 /* Pods-SuDoKus.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
